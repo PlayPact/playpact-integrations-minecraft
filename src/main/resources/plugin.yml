@@ -1,0 +1,4 @@
+name: PlayPactPlugin
+version: 1.0
+main: net.playpact.minecraft.PlayPactPlugin
+api-version: 1.20
